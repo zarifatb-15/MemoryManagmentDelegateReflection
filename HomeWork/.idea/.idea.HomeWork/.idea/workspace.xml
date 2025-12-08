@@ -8,9 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cde422a-cc14-4a1f-a01e-fa828e791a76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/Services/UserService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HomeWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/HomeWork.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/HomeWork.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/Helpers/JsonHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/Helpers/JsonHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/Services/UserService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
@@ -86,6 +86,7 @@
       <workItem from="1764953831740" duration="1365000" />
       <workItem from="1764956429074" duration="1428000" />
       <workItem from="1764958637414" duration="1216000" />
+      <workItem from="1765223638565" duration="338000" />
     </task>
     <servers />
   </component>

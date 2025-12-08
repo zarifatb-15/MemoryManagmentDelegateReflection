@@ -21,4 +21,6 @@ public static class JsonHelper<T>
         string json = JsonSerializer.Serialize(data, options);
         File.WriteAllText(path, json);
     }
+
+    
 }

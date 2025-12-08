@@ -25,4 +25,14 @@ public class UserService
     {
         return users.FirstOrDefault(x => x.Username == username);
     }
+
+    public UserService()
+    {
+        users=JsonHelper<User>.Read(path);
+         if 
+    }
+    
+    
+    
+    
 }
