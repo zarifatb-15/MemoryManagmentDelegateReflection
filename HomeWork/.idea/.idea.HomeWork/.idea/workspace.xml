@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cde422a-cc14-4a1f-a01e-fa828e791a76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/Services/AuthService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HomeWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/Helpers/JsonHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/Helpers/JsonHelper.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/Services/UserService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/obj/Debug/net10.0/HomeWork.AssemblyInfoInputs.cache" afterDir="false" />
@@ -27,8 +27,10 @@
     <setting file="file://$PROJECT_DIR$/HomeWork/Models/OrderItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HomeWork/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HomeWork/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HomeWork/Services/AuthService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HomeWork/Services/UserService.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -87,12 +89,14 @@
       <workItem from="1764956429074" duration="1428000" />
       <workItem from="1764958637414" duration="1216000" />
       <workItem from="1765223638565" duration="338000" />
+      <workItem from="1765224173037" duration="1788000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
